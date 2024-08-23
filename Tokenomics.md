@@ -7,7 +7,7 @@ When each bonding curve is created, 752 million tokens out of 1 billion are avai
 
 At the start of the bonding curve, 28 solana worth of virtual reserve is added, along with the 752 million tokens, creating a starting market cap of around 4000$.  
 
-When a token completes its bonding curve, the 70% of the remaining 248 million tokens(about 173 million tokens) and 79 solana are sent to a pool on radium. The remaining 30% are burnt.  
+When a token completes its bonding curve, the 70% of the remaining 248 million tokens(about 173 million tokens) and 79 solana are sent to a pool on radium. The remaining 30% are burnt. This allows the token to keep its value when launched on radium.
 
 ***Important notes***:
 
