@@ -1,0 +1,31 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot_script.ts",
+  "scripts": {
+    "start": "npx tsx bot_script.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "type": "module",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/wallet-adapter-react": "^0.15.35",
+    "@solana/web3.js": "^1.95.2",
+    "@supabase/ssr": "^0.4.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.4.5",
+    "jito-ts": "^4.1.1",
+    "rpc-websockets": "7.10.0"
+  }
+}
