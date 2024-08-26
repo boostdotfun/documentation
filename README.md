@@ -36,10 +36,8 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    RPC_URL=https://api.mainnet-beta.solana.com
-   PROGRAM_ID=YourProgramIDHere
+   KEYPAIR=YourKeypair
    ```
-
-   Replace `YourProgramIDHere` with the actual program ID you are using.
 
 ## Usage
 
